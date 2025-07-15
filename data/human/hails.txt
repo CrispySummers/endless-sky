@@ -18,7 +18,12 @@ phrase "quarg bribe rejection hail"
 		"We have more than enough resources; we do not want or need more from a warmongerer."
 		"Pathetic."
 
-phrase "bribe rejection hail"
+phrase "quarg bribe acceptance hail"
+	word
+		"Proceed quickly; I feel dirty even talking to thou."
+		"I believe one bribe is harmless; thou will not be so lucky next time."
+
+phrase "republic bribe rejection hail"
 	word
 		"It is too late: "
 		"Your attempt is futile; "
@@ -26,6 +31,16 @@ phrase "bribe rejection hail"
 		"we are too honorable to accept this from an enemy."
 		"we value honor over greed."
 		"we will not be swayed so easily."
+
+phrase "republic bribe acceptance hail"
+	word
+		"It was a pleasure doing business."
+		"Don't tell my superiors about this."
+		"I didn't want to do this, but I need the money."
+		"The money is irresistable!"
+		"Next time, you might not be able to pay your way out."
+		"Don't push your luck!"
+
 
 phrase "band"
 	word
@@ -4604,6 +4619,12 @@ phrase "pirate bribe acceptance hail"
 		"Can I keep blowing up your ships? Alright, nevermind."
 		"Glad I got what's due to me."
 		"Another step towards anarchy!"
+
+phrase "pirate bribe rejection hail"
+	word
+		"My thirst for blood outweighs my greed!"
+		"I am already rich; I don't care about your money."
+		"I just want to blow you up!"
 
 phrase "friendly pirate"
 	word

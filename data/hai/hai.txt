@@ -569,6 +569,15 @@ phrase "hostile disabled hai"
 		" We live only in peace yet you come bringing war."
 		" Have you no soul?"
 		
+phrase "hai bribe acceptance hail"
+	word
+		"We can keep the peace for now, but don't attack us again."
+		"We appreciate your gift."
+
+phrase "hai bribe rejection hail"
+	word
+		"We don't want your money."
+		"Money cannot buy peace for long."
 
 phrase "friendly unfettered"
 	word
